@@ -15,6 +15,7 @@ function bmiCalculator(weight,height){
         return("Your BMI is " +bmi+ ". So, you are overweight.");
     }
 
+    return bmi;
 }
 
 
